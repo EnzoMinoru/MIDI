@@ -1,1 +1,1 @@
-hello wrld
+alert('hello wrld')
