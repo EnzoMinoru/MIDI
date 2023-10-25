@@ -1,8 +1,9 @@
 alert('hello wrld')
+
 function tocasompom(){
     document.querySelection('#som_tecla_pom').play();
 }
-document,querySelector('.tecla_pom').onclick = tocaSomPom;
+document,querySelector('.tecla_pom').onclick = tocasompom;
 
 function tocaSomclap(){
     document.querySelection('#som_tecla_clap').play();
@@ -27,7 +28,7 @@ document,querySelector('.tecla_splash').onclick = tocaSomsplash;
 function tocasomtoim(){
     document.querySelection('#som_tecla_toim').play();
 }
-document,querySelector('.tecla_toim').onclick = tocaSomtoim;
+document,querySelector('.tecla_toim').onclick = tocasomtoim;
 
 function tocasompsh(){
     document.querySelection('#som_tecla_psh').play();
@@ -37,11 +38,11 @@ document,querySelector('.tecla_psh').onclick = tocasompsh;
 function tocasomtic(){
     document.querySelection('#som_tecla_tic').play();
 }
-document,querySelector('.tecla_tic').onclick = tocaSomtic;
+document,querySelector('.tecla_tic').onclick = tocasomtic;
 
 function tocasomtom(){
     document.querySelection('#som_tecla_tom').play();
 }
-document,querySelector('.tecla_tom').onclick = tocaSomtom;
+document,querySelector('.tecla_tom').onclick = tocasomtom;
 
 
